@@ -1,5 +1,32 @@
 [
     {
+        "name":"Perplexica",
+        "full_name":"ItzCrazyKns\/Perplexica",
+        "description":"Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "html_url":"https:\/\/github.com\/ItzCrazyKns\/Perplexica",
+        "stargazers_count":12231,
+        "language":"TypeScript",
+        "created_at":"2024-04-09T10:51:32Z"
+    },
+    {
+        "name":"LLMBook-zh.github.io",
+        "full_name":"LLMBook-zh\/LLMBook-zh.github.io",
+        "description":"\u300a\u5927\u8bed\u8a00\u6a21\u578b\u300b\u4f5c\u8005\uff1a\u8d75\u946b\uff0c\u674e\u519b\u6bc5\uff0c\u5468\u6606\uff0c\u5510\u5929\u4e00\uff0c\u6587\u7ee7\u8363",
+        "html_url":"https:\/\/github.com\/LLMBook-zh\/LLMBook-zh.github.io",
+        "stargazers_count":2047,
+        "language":null,
+        "created_at":"2024-04-15T02:50:32Z"
+    },
+    {
+        "name":"sports",
+        "full_name":"roboflow\/sports",
+        "description":"computer vision and sports",
+        "html_url":"https:\/\/github.com\/roboflow\/sports",
+        "stargazers_count":1877,
+        "language":"Python",
+        "created_at":"2024-05-13T14:51:16Z"
+    },
+    {
         "name":"ai-renamer",
         "full_name":"ozgrozer\/ai-renamer",
         "description":"A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents",
@@ -18,6 +45,51 @@
         "created_at":"2024-06-24T21:37:54Z"
     },
     {
+        "name":"TimeMixer",
+        "full_name":"kwuking\/TimeMixer",
+        "description":"[ICLR 2024] Official implementation of \"TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting\"",
+        "html_url":"https:\/\/github.com\/kwuking\/TimeMixer",
+        "stargazers_count":1126,
+        "language":"Python",
+        "created_at":"2024-03-05T06:37:26Z"
+    },
+    {
+        "name":"xlstm",
+        "full_name":"NX-AI\/xlstm",
+        "description":"Official repository of the xLSTM.",
+        "html_url":"https:\/\/github.com\/NX-AI\/xlstm",
+        "stargazers_count":1107,
+        "language":"Python",
+        "created_at":"2024-05-08T14:29:53Z"
+    },
+    {
+        "name":"js-pytorch",
+        "full_name":"eduardoleao052\/js-pytorch",
+        "description":"A JavaScript library like PyTorch, with GPU acceleration.",
+        "html_url":"https:\/\/github.com\/eduardoleao052\/js-pytorch",
+        "stargazers_count":1000,
+        "language":"JavaScript",
+        "created_at":"2024-02-27T19:33:50Z"
+    },
+    {
+        "name":"Triton-Puzzles",
+        "full_name":"srush\/Triton-Puzzles",
+        "description":"Puzzles for learning Triton",
+        "html_url":"https:\/\/github.com\/srush\/Triton-Puzzles",
+        "stargazers_count":910,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-03-19T00:40:03Z"
+    },
+    {
+        "name":"machine-learning-list",
+        "full_name":"elicit\/machine-learning-list",
+        "description":"A curriculum for learning about foundation models, from scratch to the frontier",
+        "html_url":"https:\/\/github.com\/elicit\/machine-learning-list",
+        "stargazers_count":903,
+        "language":null,
+        "created_at":"2024-04-11T01:53:18Z"
+    },
+    {
         "name":"screen-pipe",
         "full_name":"louis030195\/screen-pipe",
         "description":"Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
@@ -25,6 +97,42 @@
         "stargazers_count":891,
         "language":"Rust",
         "created_at":"2024-06-19T13:23:56Z"
+    },
+    {
+        "name":"transformer-explainer",
+        "full_name":"poloclub\/transformer-explainer",
+        "description":"Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization",
+        "html_url":"https:\/\/github.com\/poloclub\/transformer-explainer",
+        "stargazers_count":859,
+        "language":"JavaScript",
+        "created_at":"2024-05-16T21:42:10Z"
+    },
+    {
+        "name":"raptor",
+        "full_name":"parthsarthi03\/raptor",
+        "description":"The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval",
+        "html_url":"https:\/\/github.com\/parthsarthi03\/raptor",
+        "stargazers_count":787,
+        "language":"Python",
+        "created_at":"2024-02-27T01:33:26Z"
+    },
+    {
+        "name":"alphafold3-pytorch",
+        "full_name":"lucidrains\/alphafold3-pytorch",
+        "description":"Implementation of Alphafold 3 in Pytorch",
+        "html_url":"https:\/\/github.com\/lucidrains\/alphafold3-pytorch",
+        "stargazers_count":775,
+        "language":"Python",
+        "created_at":"2024-05-08T15:26:29Z"
+    },
+    {
+        "name":"AdalFlow",
+        "full_name":"SylphAI-Inc\/AdalFlow",
+        "description":"AdalFlow: The Library for LLM Applications",
+        "html_url":"https:\/\/github.com\/SylphAI-Inc\/AdalFlow",
+        "stargazers_count":740,
+        "language":"Python",
+        "created_at":"2024-04-19T05:05:13Z"
     },
     {
         "name":"LazyLLM",
@@ -36,13 +144,49 @@
         "created_at":"2024-06-04T05:01:45Z"
     },
     {
+        "name":"Convolutional-KANs",
+        "full_name":"AntonioTepsich\/Convolutional-KANs",
+        "description":"This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+        "html_url":"https:\/\/github.com\/AntonioTepsich\/Convolutional-KANs",
+        "stargazers_count":672,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-05-07T02:55:56Z"
+    },
+    {
+        "name":"DSINE",
+        "full_name":"baegwangbin\/DSINE",
+        "description":"[CVPR 2024 Oral] Rethinking Inductive Biases for Surface Normal Estimation",
+        "html_url":"https:\/\/github.com\/baegwangbin\/DSINE",
+        "stargazers_count":654,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-02-29T17:41:09Z"
+    },
+    {
+        "name":"AlphaFold3",
+        "full_name":"kyegomez\/AlphaFold3",
+        "description":"Implementation of Alpha Fold 3 from the paper: \"Accurate structure prediction of biomolecular interactions with AlphaFold3\" in PyTorch",
+        "html_url":"https:\/\/github.com\/kyegomez\/AlphaFold3",
+        "stargazers_count":650,
+        "language":"Python",
+        "created_at":"2024-05-08T16:54:21Z"
+    },
+    {
         "name":"SwarmUI",
         "full_name":"mcmonkeyprojects\/SwarmUI",
         "description":"SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
         "html_url":"https:\/\/github.com\/mcmonkeyprojects\/SwarmUI",
-        "stargazers_count":618,
+        "stargazers_count":619,
         "language":"C#",
         "created_at":"2024-06-21T06:24:53Z"
+    },
+    {
+        "name":"humanoid-gym",
+        "full_name":"roboterax\/humanoid-gym",
+        "description":"Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https:\/\/arxiv.org\/abs\/2404.05695",
+        "html_url":"https:\/\/github.com\/roboterax\/humanoid-gym",
+        "stargazers_count":601,
+        "language":"Python",
+        "created_at":"2024-03-04T06:02:40Z"
     },
     {
         "name":"MambaVision",
@@ -54,6 +198,51 @@
         "created_at":"2024-06-10T17:46:08Z"
     },
     {
+        "name":"rio",
+        "full_name":"rio-labs\/rio",
+        "description":"WebApps in pure Python. No JavaScript, HTML and CSS needed",
+        "html_url":"https:\/\/github.com\/rio-labs\/rio",
+        "stargazers_count":574,
+        "language":"Python",
+        "created_at":"2024-04-13T17:24:38Z"
+    },
+    {
+        "name":"MusicGPT",
+        "full_name":"gabotechs\/MusicGPT",
+        "description":"Generate music based on natural language prompts using LLMs running locally",
+        "html_url":"https:\/\/github.com\/gabotechs\/MusicGPT",
+        "stargazers_count":544,
+        "language":"Rust",
+        "created_at":"2024-05-03T16:20:12Z"
+    },
+    {
+        "name":"acezero",
+        "full_name":"nianticlabs\/acezero",
+        "description":"[ECCV 2024] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation.",
+        "html_url":"https:\/\/github.com\/nianticlabs\/acezero",
+        "stargazers_count":526,
+        "language":"Python",
+        "created_at":"2024-04-19T11:33:53Z"
+    },
+    {
+        "name":"DoRA",
+        "full_name":"NVlabs\/DoRA",
+        "description":"[ICML2024 (Oral)] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation",
+        "html_url":"https:\/\/github.com\/NVlabs\/DoRA",
+        "stargazers_count":513,
+        "language":"Python",
+        "created_at":"2024-04-11T15:55:29Z"
+    },
+    {
+        "name":"photo-similarity-search",
+        "full_name":"harperreed\/photo-similarity-search",
+        "description":"Super simple MLX (apple silicon) CLIP based photo similarity web app",
+        "html_url":"https:\/\/github.com\/harperreed\/photo-similarity-search",
+        "stargazers_count":439,
+        "language":"Python",
+        "created_at":"2024-03-26T18:31:41Z"
+    },
+    {
         "name":"grokfast",
         "full_name":"ironjr\/grokfast",
         "description":"Official repository for the paper \"Grokfast: Accelerated Grokking by Amplifying Slow Gradients\"",
@@ -61,6 +250,15 @@
         "stargazers_count":427,
         "language":"Python",
         "created_at":"2024-05-30T16:53:29Z"
+    },
+    {
+        "name":"AnyV2V",
+        "full_name":"TIGER-AI-Lab\/AnyV2V",
+        "description":"Code and data for \"AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks\"",
+        "html_url":"https:\/\/github.com\/TIGER-AI-Lab\/AnyV2V",
+        "stargazers_count":427,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-03-08T17:22:35Z"
     },
     {
         "name":"data-scientist-handbook",
@@ -108,6 +306,33 @@
         "created_at":"2024-08-02T23:20:57Z"
     },
     {
+        "name":"aideml",
+        "full_name":"WecoAI\/aideml",
+        "description":"AIDE: the Machine Learning CodeGen Agent",
+        "html_url":"https:\/\/github.com\/WecoAI\/aideml",
+        "stargazers_count":300,
+        "language":"Python",
+        "created_at":"2024-04-03T14:45:49Z"
+    },
+    {
+        "name":"transformers-php",
+        "full_name":"CodeWithKyrian\/transformers-php",
+        "description":"Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily. ",
+        "html_url":"https:\/\/github.com\/CodeWithKyrian\/transformers-php",
+        "stargazers_count":296,
+        "language":"PHP",
+        "created_at":"2024-03-12T12:31:13Z"
+    },
+    {
+        "name":"CityGaussian",
+        "full_name":"DekuLiuTesla\/CityGaussian",
+        "description":"[ECCV2024] CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians",
+        "html_url":"https:\/\/github.com\/DekuLiuTesla\/CityGaussian",
+        "stargazers_count":277,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-04-26T05:55:52Z"
+    },
+    {
         "name":"meme_search",
         "full_name":"neonwatty\/meme_search",
         "description":"Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.  Find funny fast.",
@@ -126,6 +351,24 @@
         "created_at":"2024-05-23T10:27:38Z"
     },
     {
+        "name":"infini-transformer",
+        "full_name":"dingo-actual\/infini-transformer",
+        "description":"PyTorch implementation of Infini-Transformer from \"Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention\" (https:\/\/arxiv.org\/abs\/2404.07143)",
+        "html_url":"https:\/\/github.com\/dingo-actual\/infini-transformer",
+        "stargazers_count":262,
+        "language":"Python",
+        "created_at":"2024-04-15T09:37:36Z"
+    },
+    {
+        "name":"gigax",
+        "full_name":"GigaxGames\/gigax",
+        "description":"LLM-powered NPCs running on your hardware",
+        "html_url":"https:\/\/github.com\/GigaxGames\/gigax",
+        "stargazers_count":258,
+        "language":"Python",
+        "created_at":"2024-04-18T12:12:51Z"
+    },
+    {
         "name":"Adam-mini",
         "full_name":"zyushun\/Adam-mini",
         "description":"Code for Adam-mini: Use Fewer Learning Rates To Gain More https:\/\/arxiv.org\/abs\/2406.16793",
@@ -133,6 +376,24 @@
         "stargazers_count":249,
         "language":"Python",
         "created_at":"2024-06-22T12:34:53Z"
+    },
+    {
+        "name":"mentals-ai",
+        "full_name":"turing-machines\/mentals-ai",
+        "description":"Agents in Markdown syntax (loops, memory and tools included).",
+        "html_url":"https:\/\/github.com\/turing-machines\/mentals-ai",
+        "stargazers_count":247,
+        "language":"C++",
+        "created_at":"2024-02-27T00:22:57Z"
+    },
+    {
+        "name":"TFB",
+        "full_name":"decisionintelligence\/TFB",
+        "description":"TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods (PVLDB 2024) https:\/\/www.vldb.org\/pvldb\/vol17\/p2363-hu.pdf",
+        "html_url":"https:\/\/github.com\/decisionintelligence\/TFB",
+        "stargazers_count":233,
+        "language":"Shell",
+        "created_at":"2024-03-22T12:41:07Z"
     },
     {
         "name":"autoregressive-diffusion-pytorch",
@@ -144,6 +405,24 @@
         "created_at":"2024-07-23T16:22:47Z"
     },
     {
+        "name":"create-tsi",
+        "full_name":"telekom\/create-tsi",
+        "description":"Create-tsi is a generative AI RAG toolkit which generates AI Applications with low code.",
+        "html_url":"https:\/\/github.com\/telekom\/create-tsi",
+        "stargazers_count":226,
+        "language":"TypeScript",
+        "created_at":"2024-03-19T14:04:40Z"
+    },
+    {
+        "name":"data-scientist-roadmap2024",
+        "full_name":"xandie985\/data-scientist-roadmap2024",
+        "description":"Here lies the resources and topics necessary for the role of Data Scientist and Machine Learning",
+        "html_url":"https:\/\/github.com\/xandie985\/data-scientist-roadmap2024",
+        "stargazers_count":216,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-04-18T18:05:59Z"
+    },
+    {
         "name":"MixTeX-Latex-OCR",
         "full_name":"RQLuo\/MixTeX-Latex-OCR",
         "description":"MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.",
@@ -151,6 +430,15 @@
         "stargazers_count":216,
         "language":"Python",
         "created_at":"2024-07-27T16:48:07Z"
+    },
+    {
+        "name":"mmdit",
+        "full_name":"lucidrains\/mmdit",
+        "description":"Implementation of a single layer of the MMDiT, proposed in Stable Diffusion 3, in Pytorch",
+        "html_url":"https:\/\/github.com\/lucidrains\/mmdit",
+        "stargazers_count":213,
+        "language":"Python",
+        "created_at":"2024-05-04T14:38:14Z"
     },
     {
         "name":"treescope",
@@ -171,31 +459,49 @@
         "created_at":"2024-07-09T18:39:27Z"
     },
     {
+        "name":"diamond",
+        "full_name":"eloialonso\/diamond",
+        "description":"DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.",
+        "html_url":"https:\/\/github.com\/eloialonso\/diamond",
+        "stargazers_count":196,
+        "language":"Python",
+        "created_at":"2024-05-19T22:31:40Z"
+    },
+    {
+        "name":"data-is-better-together",
+        "full_name":"huggingface\/data-is-better-together",
+        "description":"Let's build better datasets, together!",
+        "html_url":"https:\/\/github.com\/huggingface\/data-is-better-together",
+        "stargazers_count":190,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-03-11T14:17:38Z"
+    },
+    {
         "name":"rag",
         "full_name":"neuml\/rag",
         "description":"\ud83d\ude80 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.",
         "html_url":"https:\/\/github.com\/neuml\/rag",
-        "stargazers_count":182,
+        "stargazers_count":183,
         "language":"Python",
         "created_at":"2024-07-25T19:49:54Z"
     },
     {
-        "name":"infinifi",
-        "full_name":"kennethnym\/infinifi",
-        "description":"infinifi plays gentle lofi music in the background indefinitely",
-        "html_url":"https:\/\/github.com\/kennethnym\/infinifi",
-        "stargazers_count":175,
-        "language":"Python",
-        "created_at":"2024-07-20T10:53:13Z"
+        "name":"awesome-foundation-model-leaderboards",
+        "full_name":"SAILResearch\/awesome-foundation-model-leaderboards",
+        "description":"A curated list of awesome leaderboard-oriented resources for foundation models",
+        "html_url":"https:\/\/github.com\/SAILResearch\/awesome-foundation-model-leaderboards",
+        "stargazers_count":177,
+        "language":null,
+        "created_at":"2024-05-04T22:39:01Z"
     },
     {
-        "name":"cuda-repo",
-        "full_name":"HMUNACHI\/cuda-repo",
-        "description":"From zero to hero CUDA for accelerating maths and machine learning on GPU.",
-        "html_url":"https:\/\/github.com\/HMUNACHI\/cuda-repo",
-        "stargazers_count":162,
-        "language":"Cuda",
-        "created_at":"2024-05-20T21:41:00Z"
+        "name":"Awesome_Mamba",
+        "full_name":"xmindflow\/Awesome_Mamba",
+        "description":"Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis",
+        "html_url":"https:\/\/github.com\/xmindflow\/Awesome_Mamba",
+        "stargazers_count":164,
+        "language":null,
+        "created_at":"2024-04-02T22:22:29Z"
     },
     {
         "name":"GPT-2",
@@ -216,15 +522,6 @@
         "created_at":"2024-07-30T04:49:37Z"
     },
     {
-        "name":"Endia",
-        "full_name":"endia-org\/Endia",
-        "description":"Scientific Computing in Mojo \ud83d\udd25",
-        "html_url":"https:\/\/github.com\/endia-org\/Endia",
-        "stargazers_count":155,
-        "language":"Mojo",
-        "created_at":"2024-07-18T11:35:53Z"
-    },
-    {
         "name":"titok-pytorch",
         "full_name":"lucidrains\/titok-pytorch",
         "description":"Implementation of TiTok, proposed by Bytedance in \"An Image is Worth 32 Tokens for Reconstruction and Generation\"",
@@ -234,40 +531,13 @@
         "created_at":"2024-06-17T18:59:25Z"
     },
     {
-        "name":"wayve_scenes",
-        "full_name":"wayveai\/wayve_scenes",
-        "description":"Codebase for the WayveScenes101 Dataset",
-        "html_url":"https:\/\/github.com\/wayveai\/wayve_scenes",
-        "stargazers_count":143,
+        "name":"Jamba",
+        "full_name":"kyegomez\/Jamba",
+        "description":"PyTorch Implementation of Jamba: \"Jamba: A Hybrid Transformer-Mamba Language Model\"",
+        "html_url":"https:\/\/github.com\/kyegomez\/Jamba",
+        "stargazers_count":109,
         "language":"Python",
-        "created_at":"2024-06-13T06:17:38Z"
-    },
-    {
-        "name":"rectified-flow-pytorch",
-        "full_name":"lucidrains\/rectified-flow-pytorch",
-        "description":"Implementation of rectified flow and some of its followup research \/ improvements in Pytorch",
-        "html_url":"https:\/\/github.com\/lucidrains\/rectified-flow-pytorch",
-        "stargazers_count":115,
-        "language":"Python",
-        "created_at":"2024-07-17T14:29:52Z"
-    },
-    {
-        "name":"Popular-AI-tools-list-by-category",
-        "full_name":"Tavely\/Popular-AI-tools-list-by-category",
-        "description":"The most popular AI tools list sorted by category 2024\uff1b2024\u5e74\u5206\u7c7b\u6392\u5e8f\u7684\u6700\u53d7\u6b22\u8fce\u4eba\u5de5\u667a\u80fd\u5de5\u5177\u5217\u8868",
-        "html_url":"https:\/\/github.com\/Tavely\/Popular-AI-tools-list-by-category",
-        "stargazers_count":112,
-        "language":null,
-        "created_at":"2024-06-24T02:47:16Z"
-    },
-    {
-        "name":"search-agents",
-        "full_name":"kohjingyu\/search-agents",
-        "description":"Code for the paper \ud83c\udf33 Tree Search for Language Model Agents",
-        "html_url":"https:\/\/github.com\/kohjingyu\/search-agents",
-        "stargazers_count":111,
-        "language":"Python",
-        "created_at":"2024-06-18T06:20:53Z"
+        "created_at":"2024-04-01T15:56:24Z"
     },
     {
         "name":"deepfolio",
@@ -279,49 +549,13 @@
         "created_at":"2024-05-24T18:30:01Z"
     },
     {
-        "name":"AI-text-to-video-model-from-scratch",
-        "full_name":"FareedKhan-dev\/AI-text-to-video-model-from-scratch",
-        "description":"In this blog, we will build a small scale text-to-video model from scratch. We will input a text prompt, and our trained model will generate a video based on that prompt.",
-        "html_url":"https:\/\/github.com\/FareedKhan-dev\/AI-text-to-video-model-from-scratch",
-        "stargazers_count":106,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-13T04:43:35Z"
-    },
-    {
-        "name":"tfq-finance",
-        "full_name":"jialuechen\/tfq-finance",
-        "description":"Quantum Machine Learning Library for Quant Finance",
-        "html_url":"https:\/\/github.com\/jialuechen\/tfq-finance",
-        "stargazers_count":102,
+        "name":"repromodel",
+        "full_name":"ReproModel\/repromodel",
+        "description":"Boosting the AI research efficiency",
+        "html_url":"https:\/\/github.com\/ReproModel\/repromodel",
+        "stargazers_count":101,
         "language":"Python",
-        "created_at":"2024-08-03T05:09:18Z"
-    },
-    {
-        "name":"multimodal-dit-pytorch",
-        "full_name":"lucidrains\/multimodal-dit-pytorch",
-        "description":"Implementation of a multimodal diffusion transformer  in Pytorch",
-        "html_url":"https:\/\/github.com\/lucidrains\/multimodal-dit-pytorch",
-        "stargazers_count":92,
-        "language":null,
-        "created_at":"2024-06-21T15:01:03Z"
-    },
-    {
-        "name":"Promptimizer",
-        "full_name":"austin-starks\/Promptimizer",
-        "description":"An Automated AI-Powered Prompt Optimization Framework",
-        "html_url":"https:\/\/github.com\/austin-starks\/Promptimizer",
-        "stargazers_count":91,
-        "language":"TypeScript",
-        "created_at":"2024-07-26T00:42:40Z"
-    },
-    {
-        "name":"PEER-pytorch",
-        "full_name":"lucidrains\/PEER-pytorch",
-        "description":"Pytorch implementation of the PEER block from the paper, Mixture of A Million Experts, by Xu Owen He at Deepmind",
-        "html_url":"https:\/\/github.com\/lucidrains\/PEER-pytorch",
-        "stargazers_count":90,
-        "language":"Python",
-        "created_at":"2024-07-09T15:46:42Z"
+        "created_at":"2024-05-02T07:30:16Z"
     },
     {
         "name":"paramit",
@@ -333,121 +567,40 @@
         "created_at":"2024-07-10T09:26:22Z"
     },
     {
-        "name":"annotate-lab",
-        "full_name":"sumn2u\/annotate-lab",
-        "description":"Annotate-lab is an open-source image annotation tool for efficient dataset creation. With an intuitive interface and flexible export options, it streamlines your machine learning workflow. \ud83d\uddbc\ufe0f\u270f\ufe0f\ud83d\udcd1",
-        "html_url":"https:\/\/github.com\/sumn2u\/annotate-lab",
+        "name":"ThereForYou",
+        "full_name":"TAHIR0110\/ThereForYou",
+        "description":"ThereForYou: Your mental health ally. Kai, our AI assistant, offers compassionate support. Track your mood trends, find solace in a secure community, and access crisis resources swiftly. We're here to empower your journey towards improved well-being, leveraging technology for a brighter tomorrow. ",
+        "html_url":"https:\/\/github.com\/TAHIR0110\/ThereForYou",
         "stargazers_count":82,
-        "language":"JavaScript",
-        "created_at":"2024-05-25T21:07:07Z"
-    },
-    {
-        "name":"grokfast-pytorch",
-        "full_name":"lucidrains\/grokfast-pytorch",
-        "description":"Explorations into the proposal from the paper \"Grokfast, Accelerated Grokking by Amplifying Slow Gradients\"",
-        "html_url":"https:\/\/github.com\/lucidrains\/grokfast-pytorch",
-        "stargazers_count":79,
         "language":"Python",
-        "created_at":"2024-06-15T15:27:33Z"
+        "created_at":"2024-04-16T09:35:22Z"
     },
     {
-        "name":"adam-atan2-pytorch",
-        "full_name":"lucidrains\/adam-atan2-pytorch",
-        "description":"Implementation of the proposed Adam-atan2 from Google Deepmind in Pytorch",
-        "html_url":"https:\/\/github.com\/lucidrains\/adam-atan2-pytorch",
-        "stargazers_count":78,
+        "name":"PyNorch",
+        "full_name":"lucasdelimanogueira\/PyNorch",
+        "description":"Recreating PyTorch from scratch (C\/C++, CUDA and Python, with multi-GPU support and automatic differentiation!)",
+        "html_url":"https:\/\/github.com\/lucasdelimanogueira\/PyNorch",
+        "stargazers_count":82,
         "language":"Python",
-        "created_at":"2024-07-30T15:19:02Z"
+        "created_at":"2024-04-25T20:43:51Z"
     },
     {
-        "name":"Audio-Mamba-AuM",
-        "full_name":"kaistmm\/Audio-Mamba-AuM",
-        "description":"Official Implementation of the work \"Audio Mamba: Bidirectional State Space Model for Audio Representation Learning\"",
-        "html_url":"https:\/\/github.com\/kaistmm\/Audio-Mamba-AuM",
-        "stargazers_count":76,
+        "name":"ssms_event_cameras",
+        "full_name":"uzh-rpg\/ssms_event_cameras",
+        "description":"Official PyTorch implementation of the CVPR 2024 paper: State Space Models for Event Cameras (Spotlight).",
+        "html_url":"https:\/\/github.com\/uzh-rpg\/ssms_event_cameras",
+        "stargazers_count":66,
         "language":"Python",
-        "created_at":"2024-06-05T07:40:22Z"
+        "created_at":"2024-04-05T13:39:58Z"
     },
     {
-        "name":"MiCo",
-        "full_name":"invictus717\/MiCo",
-        "description":"Explore the Limits of Omni-modal Pretraining at Scale",
-        "html_url":"https:\/\/github.com\/invictus717\/MiCo",
-        "stargazers_count":74,
-        "language":"Python",
-        "created_at":"2024-06-11T08:14:04Z"
-    },
-    {
-        "name":"backend",
-        "full_name":"stocknear\/backend",
-        "description":"Backend of stocknear - Stock Analysis for Data Freaks \u2764\ufe0f",
-        "html_url":"https:\/\/github.com\/stocknear\/backend",
-        "stargazers_count":74,
-        "language":"Python",
-        "created_at":"2024-05-26T16:12:55Z"
-    },
-    {
-        "name":"frontend",
-        "full_name":"stocknear\/frontend",
-        "description":"UI of stocknear - Stock Analysis for Data Freaks \u2764\ufe0f",
-        "html_url":"https:\/\/github.com\/stocknear\/frontend",
-        "stargazers_count":73,
-        "language":"Svelte",
-        "created_at":"2024-05-26T11:27:41Z"
-    },
-    {
-        "name":"ML_DL_Course",
-        "full_name":"hichemfelouat\/ML_DL_Course",
-        "description":"Machine Learning and Deep Learning Course",
-        "html_url":"https:\/\/github.com\/hichemfelouat\/ML_DL_Course",
-        "stargazers_count":73,
-        "language":null,
-        "created_at":"2024-05-25T14:01:59Z"
-    },
-    {
-        "name":"DataNvim",
-        "full_name":"NoOPeEKS\/DataNvim",
-        "description":"A fully-featured batteries-included Neovim distribution for the world of Data Science. Prepared to run code and interact with Jupyter Notebooks without ever leaving your terminal.",
-        "html_url":"https:\/\/github.com\/NoOPeEKS\/DataNvim",
-        "stargazers_count":68,
-        "language":"Lua",
-        "created_at":"2024-06-10T18:00:10Z"
-    },
-    {
-        "name":"radicalbit-ai-monitoring",
-        "full_name":"radicalbit\/radicalbit-ai-monitoring",
-        "description":"A comprehensive solution for monitoring your AI models in production",
-        "html_url":"https:\/\/github.com\/radicalbit\/radicalbit-ai-monitoring",
-        "stargazers_count":68,
-        "language":"Python",
-        "created_at":"2024-06-19T14:49:34Z"
-    },
-    {
-        "name":"goldfish-loss",
-        "full_name":"ahans30\/goldfish-loss",
-        "description":"Official implementation of Goldfish Loss: Mitigating Memorization in Generative LLMs",
-        "html_url":"https:\/\/github.com\/ahans30\/goldfish-loss",
+        "name":"DrivAerNet",
+        "full_name":"Mohamedelrefaie\/DrivAerNet",
+        "description":"A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks",
+        "html_url":"https:\/\/github.com\/Mohamedelrefaie\/DrivAerNet",
         "stargazers_count":65,
         "language":"Python",
-        "created_at":"2024-06-17T01:57:23Z"
-    },
-    {
-        "name":"glace",
-        "full_name":"cvg\/glace",
-        "description":"[CVPR 2024] GLACE: Global Local Accelerated Coordinate Encoding",
-        "html_url":"https:\/\/github.com\/cvg\/glace",
-        "stargazers_count":65,
-        "language":"Python",
-        "created_at":"2024-06-06T07:43:55Z"
-    },
-    {
-        "name":"grafx",
-        "full_name":"sh-lee97\/grafx",
-        "description":"GRAFX: An Open-Source Library for Audio Processing Graphs in PyTorch",
-        "html_url":"https:\/\/github.com\/sh-lee97\/grafx",
-        "stargazers_count":64,
-        "language":"Python",
-        "created_at":"2024-05-23T11:04:43Z"
+        "created_at":"2024-03-04T18:49:51Z"
     },
     {
         "name":"swiftide",
@@ -459,22 +612,22 @@
         "created_at":"2024-06-09T20:07:06Z"
     },
     {
-        "name":"mamba2-minimal",
-        "full_name":"tommyip\/mamba2-minimal",
-        "description":"Minimal Mamba-2 implementation in PyTorch",
-        "html_url":"https:\/\/github.com\/tommyip\/mamba2-minimal",
-        "stargazers_count":61,
+        "name":"Gamba",
+        "full_name":"kyegomez\/Gamba",
+        "description":"Implementation of PyTorch: \"GAMBA: MARRY GAUSSIAN SPLATTING WITH MAMBA FOR SINGLE-VIEW 3D RECONSTRUCTION\"",
+        "html_url":"https:\/\/github.com\/kyegomez\/Gamba",
+        "stargazers_count":58,
         "language":"Python",
-        "created_at":"2024-06-14T11:04:57Z"
+        "created_at":"2024-03-30T03:47:10Z"
     },
     {
-        "name":"delta-iris",
-        "full_name":"vmicheli\/delta-iris",
-        "description":"Efficient World Models with Context-Aware Tokenization. ICML 2024",
-        "html_url":"https:\/\/github.com\/vmicheli\/delta-iris",
-        "stargazers_count":59,
+        "name":"Time-Evidence-Fusion-Network",
+        "full_name":"ztxtech\/Time-Evidence-Fusion-Network",
+        "description":"Official implementation of \"Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting\" (https:\/\/arxiv.org\/abs\/2405.06419)",
+        "html_url":"https:\/\/github.com\/ztxtech\/Time-Evidence-Fusion-Network",
+        "stargazers_count":56,
         "language":"Python",
-        "created_at":"2024-05-29T09:49:29Z"
+        "created_at":"2024-04-22T13:48:06Z"
     },
     {
         "name":"edgerunner",
@@ -486,31 +639,13 @@
         "created_at":"2024-06-21T06:13:46Z"
     },
     {
-        "name":"MoTHer",
-        "full_name":"eliahuhorwitz\/MoTHer",
-        "description":"Official PyTorch Implementation for the \"Model Tree Heritage Recovery\" paper.",
-        "html_url":"https:\/\/github.com\/eliahuhorwitz\/MoTHer",
-        "stargazers_count":54,
-        "language":"Python",
-        "created_at":"2024-05-28T08:58:26Z"
-    },
-    {
-        "name":"CharXiv",
-        "full_name":"princeton-nlp\/CharXiv",
-        "description":"CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs",
-        "html_url":"https:\/\/github.com\/princeton-nlp\/CharXiv",
-        "stargazers_count":54,
-        "language":"Python",
-        "created_at":"2024-05-30T19:13:08Z"
-    },
-    {
-        "name":"ARM",
-        "full_name":"OliverRensu\/ARM",
-        "description":"This repository is the official implementation of our Autoregressive Pretraining with Mamba in Vision",
-        "html_url":"https:\/\/github.com\/OliverRensu\/ARM",
+        "name":"Webscout",
+        "full_name":"OE-LUCIFER\/Webscout",
+        "description":"Search for anything using Google, DuckDuckGo, phind.com, Contains AI models, can transcribe yt videos, temporary email and phone number generation, has TTS support, webai (terminal gpt and open interpreter) and offline LLMs",
+        "html_url":"https:\/\/github.com\/OE-LUCIFER\/Webscout",
         "stargazers_count":52,
         "language":"Python",
-        "created_at":"2024-06-02T03:22:47Z"
+        "created_at":"2024-02-27T05:02:20Z"
     },
     {
         "name":"Air_Canvas_ml_model",
@@ -531,13 +666,85 @@
         "created_at":"2024-07-05T04:37:16Z"
     },
     {
-        "name":"frame-averaging-pytorch",
-        "full_name":"lucidrains\/frame-averaging-pytorch",
-        "description":"Pytorch implementation of a simple way to enable (Stochastic) Frame Averaging for any network",
-        "html_url":"https:\/\/github.com\/lucidrains\/frame-averaging-pytorch",
+        "name":"LightNet",
+        "full_name":"hshatti\/LightNet",
+        "description":"Implemented in pure pascal LightNet is an artificial intelligence neural network library Inspired by Darknet and yolo library which can run most of the darknet including YOLO models nativly and self dependently in pascal, tests are provided for both Lazarus and Delphi",
+        "html_url":"https:\/\/github.com\/hshatti\/LightNet",
+        "stargazers_count":48,
+        "language":"Pascal",
+        "created_at":"2024-05-04T09:10:39Z"
+    },
+    {
+        "name":"PHUDGE",
+        "full_name":"deshwalmahesh\/PHUDGE",
+        "description":"Official repo for the paper PHUDGE: Phi-3 as Scalable Judge. Evaluate your LLMs with or without custom rubric, reference answer, absolute, relative and much more. It contains a list of all the available tool, methods, repo, code etc to detect hallucination, LLM evaluation, grading and much more.",
+        "html_url":"https:\/\/github.com\/deshwalmahesh\/PHUDGE",
+        "stargazers_count":47,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-05-11T08:23:56Z"
+    },
+    {
+        "name":"cai",
+        "full_name":"ad-si\/cai",
+        "description":"The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!",
+        "html_url":"https:\/\/github.com\/ad-si\/cai",
         "stargazers_count":46,
+        "language":"Rust",
+        "created_at":"2024-03-28T17:24:35Z"
+    },
+    {
+        "name":"Griffin",
+        "full_name":"kyegomez\/Griffin",
+        "description":"Implementation of Griffin from the paper: \"Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models\"",
+        "html_url":"https:\/\/github.com\/kyegomez\/Griffin",
+        "stargazers_count":45,
         "language":"Python",
-        "created_at":"2024-06-03T14:47:28Z"
+        "created_at":"2024-03-04T16:51:37Z"
+    },
+    {
+        "name":"NeoSapiens",
+        "full_name":"kyegomez\/NeoSapiens",
+        "description":"The next evolution of Agents",
+        "html_url":"https:\/\/github.com\/kyegomez\/NeoSapiens",
+        "stargazers_count":44,
+        "language":"Python",
+        "created_at":"2024-04-07T22:57:34Z"
+    },
+    {
+        "name":"CoursDeepLearning",
+        "full_name":"SimonThomine\/CoursDeepLearning",
+        "description":"Un regroupement de notebooks de apprendre le deep learning \u00e0 partir de 0",
+        "html_url":"https:\/\/github.com\/SimonThomine\/CoursDeepLearning",
+        "stargazers_count":43,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-05-16T13:07:32Z"
+    },
+    {
+        "name":"awesome-security-for-ai",
+        "full_name":"zmre\/awesome-security-for-ai",
+        "description":"Awesome products for securing AI systems includes open source and commercial options and an infographic licensed CC-BY-SA-4.0.",
+        "html_url":"https:\/\/github.com\/zmre\/awesome-security-for-ai",
+        "stargazers_count":42,
+        "language":"Nix",
+        "created_at":"2024-05-14T16:59:39Z"
+    },
+    {
+        "name":"nesis",
+        "full_name":"ametnes\/nesis",
+        "description":"Your AI Powered Enterprise Knowledge Partner. Designed to be used at scale from ingesting large amounts of documents formats such as pdfs, docx, xlsx, png, jpgs, tiff, mp3, mp4, jpeg. Integrates with s3, Windows Shares, Google Drive and more.",
+        "html_url":"https:\/\/github.com\/ametnes\/nesis",
+        "stargazers_count":42,
+        "language":"Python",
+        "created_at":"2024-04-04T18:22:32Z"
+    },
+    {
+        "name":"SCOUT-2",
+        "full_name":"DigitalHallucinations\/SCOUT-2",
+        "description":"Second generation SCOUT (Scalable Cognitive Operations Unified Team)",
+        "html_url":"https:\/\/github.com\/DigitalHallucinations\/SCOUT-2",
+        "stargazers_count":37,
+        "language":"Python",
+        "created_at":"2024-03-29T15:59:59Z"
     },
     {
         "name":"UT-ECE-Student-Resources",
@@ -549,6 +756,87 @@
         "created_at":"2024-07-11T07:29:44Z"
     },
     {
+        "name":"Emotion-based-Music-Player-",
+        "full_name":"Mouneshgouda\/Emotion-based-Music-Player-",
+        "description":"\"Emotion-based-Music-Player\" is a unique project designed to enhance music listening experiences. By analyzing user emotions, this player dynamically selects music tracks that match the user's mood. Through innovative algorithms, it tailors playlists to evoke desired emotional responses, offering a personalized journey through music. ",
+        "html_url":"https:\/\/github.com\/Mouneshgouda\/Emotion-based-Music-Player-",
+        "stargazers_count":35,
+        "language":"Jupyter Notebook",
+        "created_at":"2024-04-02T08:24:40Z"
+    },
+    {
+        "name":"CSTA",
+        "full_name":"thswodnjs3\/CSTA",
+        "description":"The official code of \"CSTA: CNN-based Spatiotemporal Attention for Video Summarization\"",
+        "html_url":"https:\/\/github.com\/thswodnjs3\/CSTA",
+        "stargazers_count":34,
+        "language":"Python",
+        "created_at":"2024-03-24T02:07:21Z"
+    },
+    {
+        "name":"MLE-agent",
+        "full_name":"MLSysOps\/MLE-agent",
+        "description":"\ud83e\udd16 MLE-Agent: Your intelligent companion for seamless AI engineering and research. \ud83d\udd0d Integrate with arxiv and paper with code to provide better plans \ud83e\uddf0 OpenAI, Ollama, etc supported",
+        "html_url":"https:\/\/github.com\/MLSysOps\/MLE-agent",
+        "stargazers_count":33,
+        "language":"Python",
+        "created_at":"2024-04-16T23:49:21Z"
+    },
+    {
+        "name":"konduktor",
+        "full_name":"Trainy-ai\/konduktor",
+        "description":"cluster\/scheduler health monitoring for GPU jobs on k8s",
+        "html_url":"https:\/\/github.com\/Trainy-ai\/konduktor",
+        "stargazers_count":33,
+        "language":"Python",
+        "created_at":"2024-05-07T23:45:40Z"
+    },
+    {
+        "name":"awesome-webnn",
+        "full_name":"webmachinelearning\/awesome-webnn",
+        "description":"\u26a1Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.\ud83d\ude0e",
+        "html_url":"https:\/\/github.com\/webmachinelearning\/awesome-webnn",
+        "stargazers_count":33,
+        "language":null,
+        "created_at":"2024-05-16T09:16:40Z"
+    },
+    {
+        "name":"Deep-Learning-Foundations-and-Concepts-Solutions",
+        "full_name":"dariokonopatzki\/Deep-Learning-Foundations-and-Concepts-Solutions",
+        "description":"My solutions to DLFC - Deep Learning: Foundations and Concepts",
+        "html_url":"https:\/\/github.com\/dariokonopatzki\/Deep-Learning-Foundations-and-Concepts-Solutions",
+        "stargazers_count":33,
+        "language":null,
+        "created_at":"2024-03-01T00:10:55Z"
+    },
+    {
+        "name":"nirrt_star",
+        "full_name":"tedhuang96\/nirrt_star",
+        "description":"[ICRA24] Neural Informed RRT*",
+        "html_url":"https:\/\/github.com\/tedhuang96\/nirrt_star",
+        "stargazers_count":30,
+        "language":"Python",
+        "created_at":"2024-02-29T17:42:44Z"
+    },
+    {
+        "name":"GPT4o",
+        "full_name":"kyegomez\/GPT4o",
+        "description":"Community Open Source Implementation of GPT4o in PyTorch",
+        "html_url":"https:\/\/github.com\/kyegomez\/GPT4o",
+        "stargazers_count":29,
+        "language":"Shell",
+        "created_at":"2024-05-13T19:14:28Z"
+    },
+    {
+        "name":"deep-learning-resources",
+        "full_name":"shantanu-ai\/deep-learning-resources",
+        "description":"Resources needed to start deep learning research. ML\/DL\/CV\/NLP\/ML-SYS\/RL\/Graphs\/Maths\/Med Img lecture videos from professors at esteemed universities.",
+        "html_url":"https:\/\/github.com\/shantanu-ai\/deep-learning-resources",
+        "stargazers_count":29,
+        "language":null,
+        "created_at":"2024-03-21T17:13:05Z"
+    },
+    {
         "name":"The-Creator-AI",
         "full_name":"The-Creator-AI\/The-Creator-AI",
         "description":"Choose context for LLMs through UI",
@@ -556,6 +844,15 @@
         "stargazers_count":29,
         "language":"Shell",
         "created_at":"2024-06-09T05:37:31Z"
+    },
+    {
+        "name":"fusion_bench",
+        "full_name":"tanganke\/fusion_bench",
+        "description":"FusionBench: A Comprehensive Benchmark of Deep Model Fusion",
+        "html_url":"https:\/\/github.com\/tanganke\/fusion_bench",
+        "stargazers_count":28,
+        "language":"Python",
+        "created_at":"2024-05-13T13:40:48Z"
     },
     {
         "name":"edgerunner-android",
@@ -576,13 +873,67 @@
         "created_at":"2024-07-27T01:16:35Z"
     },
     {
-        "name":"rea",
-        "full_name":"mytechnotalent\/rea",
-        "description":"A Reverse Engineering Assistant leveraging Retrieval-Augmented Generation (RAG) and the LLaMA-3.1-8B-Instant Large Language Model (LLM). This tool is designed to revolutionize reverse engineering tasks by combining machine learning with retrieval-based systems.",
-        "html_url":"https:\/\/github.com\/mytechnotalent\/rea",
+        "name":"FluentlyDiffusion",
+        "full_name":"ehristoforu\/FluentlyDiffusion",
+        "description":"Modern Stable Diffusion models family - Fluently",
+        "html_url":"https:\/\/github.com\/ehristoforu\/FluentlyDiffusion",
+        "stargazers_count":25,
+        "language":"Python",
+        "created_at":"2024-03-09T11:08:53Z"
+    },
+    {
+        "name":"yagrad",
+        "full_name":"noway\/yagrad",
+        "description":"yet another scalar autograd engine - featuring complex numbers and fixed DAG",
+        "html_url":"https:\/\/github.com\/noway\/yagrad",
+        "stargazers_count":25,
+        "language":"Python",
+        "created_at":"2024-03-18T05:38:38Z"
+    },
+    {
+        "name":"ml-kickstarter",
+        "full_name":"MatsMoll\/ml-kickstarter",
+        "description":"A project to kickstart your ML development",
+        "html_url":"https:\/\/github.com\/MatsMoll\/ml-kickstarter",
+        "stargazers_count":23,
+        "language":"Python",
+        "created_at":"2024-04-15T19:34:56Z"
+    },
+    {
+        "name":"interactive-3d-demo-app",
+        "full_name":"fal-ai\/interactive-3d-demo-app",
+        "description":"Interactive 3d demo of 3d and image AI inference provided by fal.ai",
+        "html_url":"https:\/\/github.com\/fal-ai\/interactive-3d-demo-app",
+        "stargazers_count":23,
+        "language":"TypeScript",
+        "created_at":"2024-03-13T17:31:41Z"
+    },
+    {
+        "name":"neural-networks-from-scratch",
+        "full_name":"biraj21\/neural-networks-from-scratch",
+        "description":"Neural Networks from scratch in Go.",
+        "html_url":"https:\/\/github.com\/biraj21\/neural-networks-from-scratch",
         "stargazers_count":21,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-08-02T13:05:49Z"
+        "language":"Go",
+        "created_at":"2024-04-18T11:32:36Z"
+    },
+    {
+        "name":"deepfusion",
+        "full_name":"atharvaaalok\/deepfusion",
+        "description":"A highly modular and customizable Deep Learning framework.",
+        "html_url":"https:\/\/github.com\/atharvaaalok\/deepfusion",
+        "stargazers_count":21,
+        "language":"Python",
+        "created_at":"2024-04-29T01:37:06Z"
+    },
+    {
+        "name":"MileBench",
+        "full_name":"MileBench\/MileBench",
+        "description":"This repo contains evaluation code for the paper \"MileBench: Benchmarking MLLMs in Long Context\"",
+        "html_url":"https:\/\/github.com\/MileBench\/MileBench",
+        "stargazers_count":20,
+        "language":"Python",
+        "created_at":"2024-04-12T07:49:38Z"
     },
     {
         "name":"neural-fcasa",
@@ -594,67 +945,31 @@
         "created_at":"2024-06-09T03:43:52Z"
     },
     {
-        "name":"applied-llms",
-        "full_name":"parlance-labs\/applied-llms",
-        "description":"Website for Applied-LLMs work",
-        "html_url":"https:\/\/github.com\/parlance-labs\/applied-llms",
-        "stargazers_count":19,
-        "language":"CSS",
-        "created_at":"2024-05-28T20:27:00Z"
-    },
-    {
-        "name":"awesome-ai-models",
-        "full_name":"dariubs\/awesome-ai-models",
-        "description":"A curated list of top AI models and LLMs",
-        "html_url":"https:\/\/github.com\/dariubs\/awesome-ai-models",
-        "stargazers_count":19,
-        "language":null,
-        "created_at":"2024-07-20T10:06:11Z"
-    },
-    {
-        "name":"DistortionML",
-        "full_name":"nick-leland\/DistortionML",
-        "description":"A machine learning model that will determine if a photo has any visual manipulation (bulge, pinch, skew, spiral, etc) and then attempts to revert them.   ",
-        "html_url":"https:\/\/github.com\/nick-leland\/DistortionML",
-        "stargazers_count":18,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-05-31T15:36:26Z"
-    },
-    {
-        "name":"pa",
-        "full_name":"mytechnotalent\/pa",
-        "description":"A Personal Assistant leveraging Retrieval-Augmented Generation (RAG) and the LLaMA-3.1-8B-Instant Large Language Model (LLM). This tool is designed to revolutionize PDF document analysis tasks by combining machine learning with retrieval-based systems.",
-        "html_url":"https:\/\/github.com\/mytechnotalent\/pa",
+        "name":"NeuroSandboxWebUI",
+        "full_name":"Dartvauder\/NeuroSandboxWebUI",
+        "description":"(Windows\/Linux) Local WebUI with neural network models (LLM, Stable Diffusion, Kandinsky, Flux, HunyuanDiT, Lumina-T2X, DeepFloydIF, PixArt, Stable Audio Open, AudioCraft, AudioLDM2, TTS, Bark, Whisper, Demucs, LibreTranslate, ZeroScope2, TripoSR, Shap-E, GLIGEN, Wav2Lip, Roop, Rembg, CodeFormer, CogVideoX, Latte, etc.) on python (Gradio interface)",
+        "html_url":"https:\/\/github.com\/Dartvauder\/NeuroSandboxWebUI",
         "stargazers_count":17,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-08-04T12:06:15Z"
-    },
-    {
-        "name":"sandwood",
-        "full_name":"oracle\/sandwood",
-        "description":"Sandwood - A JVM based Java like Probabilistic Programming Language",
-        "html_url":"https:\/\/github.com\/oracle\/sandwood",
-        "stargazers_count":15,
-        "language":"Java",
-        "created_at":"2024-08-06T17:22:26Z"
-    },
-    {
-        "name":"WhiteRock",
-        "full_name":"kyegomez\/WhiteRock",
-        "description":"The world's first fully automated VC fund.",
-        "html_url":"https:\/\/github.com\/kyegomez\/WhiteRock",
-        "stargazers_count":13,
         "language":"Python",
-        "created_at":"2024-06-05T17:08:10Z"
+        "created_at":"2024-03-15T10:34:54Z"
     },
     {
-        "name":"enterprise-add",
-        "full_name":"TruncatedDinoSour\/enterprise-add",
-        "description":"[Migrated to self-hosted ari-web Forgejo: https:\/\/git.ari.lt\/ari\/enterprise-add] Enterprise AI parody: number addition in C using gradient descent (Machine Learning\/AI).",
-        "html_url":"https:\/\/github.com\/TruncatedDinoSour\/enterprise-add",
-        "stargazers_count":13,
-        "language":"C",
-        "created_at":"2024-06-16T20:33:54Z"
+        "name":"interpretable-embeddings",
+        "full_name":"csinva\/interpretable-embeddings",
+        "description":"Interpretable text embeddings by asking LLMs yes\/no questions",
+        "html_url":"https:\/\/github.com\/csinva\/interpretable-embeddings",
+        "stargazers_count":16,
+        "language":"Python",
+        "created_at":"2024-05-07T21:33:22Z"
+    },
+    {
+        "name":"fastvpinns",
+        "full_name":"cmgcds\/fastvpinns",
+        "description":"FastVPINNs - A tensor-driven acceleration of VPINNs for complex geometries",
+        "html_url":"https:\/\/github.com\/cmgcds\/fastvpinns",
+        "stargazers_count":15,
+        "language":"Python",
+        "created_at":"2024-04-22T12:09:06Z"
     },
     {
         "name":"Implementation-of-a-Flexible-and-Energy-Efficient-Accelerator-For-Sparse-Convolution-Neural-Network",
@@ -664,6 +979,15 @@
         "stargazers_count":13,
         "language":"Verilog",
         "created_at":"2024-06-06T19:59:18Z"
+    },
+    {
+        "name":"mnist-model-parameters2",
+        "full_name":"vontanne\/mnist-model-parameters2",
+        "description":"Trained weights and biases for a PyTorch model on the MNIST dataset, aimed at handwritten digit recognition",
+        "html_url":"https:\/\/github.com\/vontanne\/mnist-model-parameters2",
+        "stargazers_count":12,
+        "language":"JavaScript",
+        "created_at":"2024-03-26T16:54:18Z"
     },
     {
         "name":"fcitx5-hazkey",
@@ -684,31 +1008,13 @@
         "created_at":"2024-06-29T17:28:44Z"
     },
     {
-        "name":"Aurora",
-        "full_name":"kyegomez\/Aurora",
-        "description":"Implementation of the paper: \"Aurora: A Foundation Model of the Atmosphere\" in PyTorch",
-        "html_url":"https:\/\/github.com\/kyegomez\/Aurora",
+        "name":"iter_unc",
+        "full_name":"cvlab-epfl\/iter_unc",
+        "description":"Official code for \"Enabling Uncertainty Estimation in Iterative Neural Networks\" (ICML 2024) ",
+        "html_url":"https:\/\/github.com\/cvlab-epfl\/iter_unc",
         "stargazers_count":11,
-        "language":"Python",
-        "created_at":"2024-06-04T15:29:00Z"
-    },
-    {
-        "name":"NeuroDeva",
-        "full_name":"3ndetz\/NeuroDeva",
-        "description":"Streams block game",
-        "html_url":"https:\/\/github.com\/3ndetz\/NeuroDeva",
-        "stargazers_count":11,
-        "language":"Python",
-        "created_at":"2024-07-02T14:42:26Z"
-    },
-    {
-        "name":"sad",
-        "full_name":"LRudL\/sad",
-        "description":"Situational Awareness Dataset",
-        "html_url":"https:\/\/github.com\/LRudL\/sad",
-        "stargazers_count":11,
-        "language":"HTML",
-        "created_at":"2024-07-05T14:09:43Z"
+        "language":"Jupyter Notebook",
+        "created_at":"2024-05-02T10:42:47Z"
     },
     {
         "name":"microhaskell",
@@ -720,67 +1026,13 @@
         "created_at":"2024-05-28T17:08:11Z"
     },
     {
-        "name":"traiNNer-redux",
-        "full_name":"the-database\/traiNNer-redux",
-        "description":"Deep learning training framework for image super resolution and restoration.",
-        "html_url":"https:\/\/github.com\/the-database\/traiNNer-redux",
-        "stargazers_count":11,
-        "language":"Python",
-        "created_at":"2024-06-02T06:24:38Z"
-    },
-    {
-        "name":"SSLfairness",
-        "full_name":"Nokia-Bell-Labs\/SSLfairness",
-        "description":"(KDD\u201924) Using Self-Supervised Learning Can Improve Model Fairness",
-        "html_url":"https:\/\/github.com\/Nokia-Bell-Labs\/SSLfairness",
+        "name":"Data-Science-and-AI-Internship-Program-2024",
+        "full_name":"ArtificialIntelligenceResearch\/Data-Science-and-AI-Internship-Program-2024",
+        "description":"Join our 2024 Data Science and AI Internship Program at Bytes of Intelligence. Gain practical skills, mentorship, and real-world experience in the dynamic fields of data science and artificial intelligence, preparing you for future success in tech.",
+        "html_url":"https:\/\/github.com\/ArtificialIntelligenceResearch\/Data-Science-and-AI-Internship-Program-2024",
         "stargazers_count":10,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-04T10:07:58Z"
-    },
-    {
-        "name":"numpower-autograd",
-        "full_name":"NumPower\/numpower-autograd",
-        "description":"High performance PHP tensor with autograd (automatic differentiation) and GPU support.",
-        "html_url":"https:\/\/github.com\/NumPower\/numpower-autograd",
-        "stargazers_count":10,
-        "language":"PHP",
-        "created_at":"2024-05-24T17:08:25Z"
-    },
-    {
-        "name":"deepfake-detector",
-        "full_name":"mytechnotalent\/deepfake-detector",
-        "description":"Deepfake Detector is an AI\/ML model designed to detect AI-generated or manipulated images.",
-        "html_url":"https:\/\/github.com\/mytechnotalent\/deepfake-detector",
-        "stargazers_count":9,
         "language":"Python",
-        "created_at":"2024-06-28T22:58:54Z"
-    },
-    {
-        "name":"AURORA",
-        "full_name":"Drlordbasil\/AURORA",
-        "description":"AURORA (Artificial Unified Responsive Optimized Reasoning Agent) uses lobes and web research for RAG based memory and learning. ",
-        "html_url":"https:\/\/github.com\/Drlordbasil\/AURORA",
-        "stargazers_count":9,
-        "language":"Python",
-        "created_at":"2024-06-12T01:21:30Z"
-    },
-    {
-        "name":"ml-rest-api-caching",
-        "full_name":"Paulescu\/ml-rest-api-caching",
-        "description":"How to serve ML predictions 100x faster",
-        "html_url":"https:\/\/github.com\/Paulescu\/ml-rest-api-caching",
-        "stargazers_count":9,
-        "language":"Python",
-        "created_at":"2024-08-09T00:49:22Z"
-    },
-    {
-        "name":"AudioMamba",
-        "full_name":"kyegomez\/AudioMamba",
-        "description":"Implementation of the paper: \"Audio Mamba: Bidirectional State Space Model for Audio Representation Learning\" in pytorch",
-        "html_url":"https:\/\/github.com\/kyegomez\/AudioMamba",
-        "stargazers_count":9,
-        "language":"Shell",
-        "created_at":"2024-06-06T05:15:59Z"
+        "created_at":"2024-03-14T23:23:58Z"
     },
     {
         "name":"awesome-ai-cybersecurity",
@@ -792,31 +1044,22 @@
         "created_at":"2024-07-21T07:05:41Z"
     },
     {
-        "name":"HyperCrawlTurbo",
-        "full_name":"SupervisedCo\/HyperCrawlTurbo",
-        "description":"HypercrawlTurbo is a turbocharged web scraper for extracting URLs from a webpage.",
-        "html_url":"https:\/\/github.com\/SupervisedCo\/HyperCrawlTurbo",
-        "stargazers_count":8,
-        "language":"Python",
-        "created_at":"2024-05-24T07:05:32Z"
+        "name":"pytorch_dart",
+        "full_name":"Playboy-Player\/pytorch_dart",
+        "description":"Pytorch_Dart is a dart wrapper for Libtorch,striving to provide an experience identical to PyTorch. You can use it as an alternative to Numpy in your Dart\/Flutter projects.",
+        "html_url":"https:\/\/github.com\/Playboy-Player\/pytorch_dart",
+        "stargazers_count":9,
+        "language":"C++",
+        "created_at":"2024-03-15T02:29:37Z"
     },
     {
-        "name":"gender-recognition",
-        "full_name":"RiraAI\/gender-recognition",
-        "description":"Building a Deep learning model that predicts the gender of a speaker using TensorFlow",
-        "html_url":"https:\/\/github.com\/RiraAI\/gender-recognition",
+        "name":"A2XP",
+        "full_name":"AIRLABkhu\/A2XP",
+        "description":"The official implementation of \"A2XP: Towards Private Domain Generalization\".",
+        "html_url":"https:\/\/github.com\/AIRLABkhu\/A2XP",
         "stargazers_count":8,
         "language":"Python",
-        "created_at":"2024-06-17T10:36:58Z"
-    },
-    {
-        "name":"amazongpt",
-        "full_name":"KudoAI\/amazongpt",
-        "description":"\ud83d\uded2 Adds AI assistance to Amazon shopping",
-        "html_url":"https:\/\/github.com\/KudoAI\/amazongpt",
-        "stargazers_count":8,
-        "language":"JavaScript",
-        "created_at":"2024-07-14T08:23:17Z"
+        "created_at":"2024-02-27T03:32:16Z"
     },
     {
         "name":"TS-Source",
@@ -828,13 +1071,13 @@
         "created_at":"2024-07-07T01:37:51Z"
     },
     {
-        "name":"Price-Predict",
-        "full_name":"Mechres\/Price-Predict",
-        "description":"Crypto & Stock* price prediction with regression models.",
-        "html_url":"https:\/\/github.com\/Mechres\/Price-Predict",
+        "name":"DeepEYE-Video-Surveillance-with-Anomaly-Detection",
+        "full_name":"jaigane6387\/DeepEYE-Video-Surveillance-with-Anomaly-Detection",
+        "description":"DeepEYE utilizes computer vision to detect anomalies in video surveillance, offering a proactive security solution. By employing advanced machine learning algorithms, it distinguishes between normal activities and potential threats, enhancing surveillance across sectors like public safety, industry, and smart cities.",
+        "html_url":"https:\/\/github.com\/jaigane6387\/DeepEYE-Video-Surveillance-with-Anomaly-Detection",
         "stargazers_count":8,
         "language":"Python",
-        "created_at":"2024-05-30T02:03:33Z"
+        "created_at":"2024-04-08T20:12:26Z"
     },
     {
         "name":"pytabkit",
@@ -855,94 +1098,31 @@
         "created_at":"2024-07-08T06:49:21Z"
     },
     {
-        "name":"Charformer",
-        "full_name":"takeraparterer\/Charformer",
-        "description":"Augmenting character level Transformers with Causal Dilated Conv1D layers",
-        "html_url":"https:\/\/github.com\/takeraparterer\/Charformer",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-07-29T06:53:09Z"
-    },
-    {
-        "name":"dietary-remix",
-        "full_name":"FaycalZM\/dietary-remix",
-        "description":"Winner \ud83c\udfc6 of Quira Quest N\u00b014 : LLM-ify the world \ud83c\udf10",
-        "html_url":"https:\/\/github.com\/FaycalZM\/dietary-remix",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-07-14T22:48:39Z"
-    },
-    {
-        "name":"fiftyone_florence2_plugin",
-        "full_name":"jacobmarks\/fiftyone_florence2_plugin",
-        "description":"Run SOTA Vision-Language Model Florence-2 on your data!",
-        "html_url":"https:\/\/github.com\/jacobmarks\/fiftyone_florence2_plugin",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-06-29T19:01:46Z"
-    },
-    {
-        "name":"miners",
-        "full_name":"gentaiscool\/miners",
-        "description":"MINERS \u26cf\ufe0f: The semantic retrieval benchmark for evaluating multilingual language models.",
-        "html_url":"https:\/\/github.com\/gentaiscool\/miners",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-06-01T04:18:30Z"
-    },
-    {
-        "name":"deep-learning-notes",
-        "full_name":"semilleroCV\/deep-learning-notes",
-        "description":"The Deep Learning Notes repository is a comprehensive resource for deep learning enthusiasts, with detailed notebooks, modular implementations and in-depth analysis.",
-        "html_url":"https:\/\/github.com\/semilleroCV\/deep-learning-notes",
-        "stargazers_count":7,
+        "name":"DL-Cheat-Codes",
+        "full_name":"nikitaprasad21\/DL-Cheat-Codes",
+        "description":"Beginner Friendly CheatCodes",
+        "html_url":"https:\/\/github.com\/nikitaprasad21\/DL-Cheat-Codes",
+        "stargazers_count":6,
         "language":"Jupyter Notebook",
-        "created_at":"2024-06-05T02:26:16Z"
+        "created_at":"2024-04-23T06:41:45Z"
     },
     {
-        "name":"ANN-Robotics-simu",
-        "full_name":"AbhiFutureTech\/ANN-Robotics-simu",
-        "description":"This project focuses on developing and implementing neural network algorithms to enable autonomous navigation in self-driving robots.",
-        "html_url":"https:\/\/github.com\/AbhiFutureTech\/ANN-Robotics-simu",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-07-04T07:44:03Z"
+        "name":"KuiperInfer_rs",
+        "full_name":"SongQiPing\/KuiperInfer_rs",
+        "description":"\u4f7f\u7528 Rust \u8bed\u8a00\u91cd\u65b0\u5b9e\u73b0 https:\/\/github.com\/zjhellofss\/KuiperInfer \u548c https:\/\/github.com\/zjhellofss\/kuiperdatawhale \u4e2d\u7684\u6df1\u5ea6\u5b66\u4e60\u63a8\u7406\u6846\u67b6\u3002",
+        "html_url":"https:\/\/github.com\/SongQiPing\/KuiperInfer_rs",
+        "stargazers_count":6,
+        "language":"Rust",
+        "created_at":"2024-04-06T08:26:23Z"
     },
     {
-        "name":"Keras-ImageClassifier",
-        "full_name":"AbhiFutureTech\/Keras-ImageClassifier",
-        "description":"We will use keras fashion MNIST dataset. This consist of 60000 28X28 pixel images and 10000 test images, these images are classified in one of the 10 categories",
-        "html_url":"https:\/\/github.com\/AbhiFutureTech\/Keras-ImageClassifier",
-        "stargazers_count":7,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-14T08:22:53Z"
-    },
-    {
-        "name":"nebula",
-        "full_name":"enriquetomasmb\/nebula",
-        "description":"NEBULA: A Platform for Decentralized Federated Learning",
-        "html_url":"https:\/\/github.com\/enriquetomasmb\/nebula",
-        "stargazers_count":7,
-        "language":"Python",
-        "created_at":"2024-05-25T14:29:07Z"
-    },
-    {
-        "name":"Drug-Target-Discovery-Using-LLMs-and-Knowledge-Graphs",
-        "full_name":"DrReetuSharma\/Drug-Target-Discovery-Using-LLMs-and-Knowledge-Graphs",
-        "description":"Drug target discovery using LLM and Knowledge graphs ",
-        "html_url":"https:\/\/github.com\/DrReetuSharma\/Drug-Target-Discovery-Using-LLMs-and-Knowledge-Graphs",
+        "name":"UAP_VLP",
+        "full_name":"sduzpf\/UAP_VLP",
+        "description":"Universal Adversarial Perturbations for Vision-Language Pre-trained Models",
+        "html_url":"https:\/\/github.com\/sduzpf\/UAP_VLP",
         "stargazers_count":6,
         "language":"Python",
-        "created_at":"2024-05-20T17:35:25Z"
-    },
-    {
-        "name":"Simulation-and-modeling-of-biomechanics",
-        "full_name":"EmadYaY\/Simulation-and-modeling-of-biomechanics",
-        "description":"Mask-Face Detection Project",
-        "html_url":"https:\/\/github.com\/EmadYaY\/Simulation-and-modeling-of-biomechanics",
-        "stargazers_count":6,
-        "language":"Python",
-        "created_at":"2024-07-26T19:48:09Z"
+        "created_at":"2024-05-09T07:41:22Z"
     },
     {
         "name":"MCPNet",
@@ -954,33 +1134,6 @@
         "created_at":"2024-07-02T01:43:49Z"
     },
     {
-        "name":"Intel-Tiber-Broadcast-Suite",
-        "full_name":"OpenVisualCloud\/Intel-Tiber-Broadcast-Suite",
-        "description":"Part of Intel\u00ae Tiber\u2122 Edge Platform, an end-to-end software platform that enables the building, deployment, running, and management of scalable edge solutions.",
-        "html_url":"https:\/\/github.com\/OpenVisualCloud\/Intel-Tiber-Broadcast-Suite",
-        "stargazers_count":6,
-        "language":"Shell",
-        "created_at":"2024-06-17T09:35:21Z"
-    },
-    {
-        "name":"ferrograd",
-        "full_name":"ShettySach\/ferrograd",
-        "description":"A small scalar autograd engine \/ Rust crate, inspired from Karpathy's micrograd, with more features, such as more activation functions, optimizers and loss criterions. Capable of MNIST classification.",
-        "html_url":"https:\/\/github.com\/ShettySach\/ferrograd",
-        "stargazers_count":5,
-        "language":"Rust",
-        "created_at":"2024-07-05T12:52:40Z"
-    },
-    {
-        "name":"TS-Installer",
-        "full_name":"Lithicsoft\/TS-Installer",
-        "description":"Open Source installer, updater for Trainer Studio under Apache 2.0 License",
-        "html_url":"https:\/\/github.com\/Lithicsoft\/TS-Installer",
-        "stargazers_count":5,
-        "language":"C#",
-        "created_at":"2024-07-05T23:48:23Z"
-    },
-    {
         "name":"Sign-Language-Detection",
         "full_name":"RiaanSadiq\/Sign-Language-Detection",
         "description":"Sign Language Detection using CNN and Flask. This project uses Convolutional Neural Networks (CNN) to detect and classify sign language gestures. It includes a Flask web application for real-time detection. Simply use your webcam to translates gestures into text.",
@@ -990,22 +1143,13 @@
         "created_at":"2024-06-20T12:50:23Z"
     },
     {
-        "name":"modelconverter",
-        "full_name":"luxonis\/modelconverter",
-        "description":"Model converter for Luxonis' cameras. Convert your model from ONNX, TF, ... to a model compatible with any generation of Luxonis camera.",
-        "html_url":"https:\/\/github.com\/luxonis\/modelconverter",
+        "name":"TS-Installer",
+        "full_name":"Lithicsoft\/TS-Installer",
+        "description":"Open Source installer, updater for Trainer Studio under Apache 2.0 License",
+        "html_url":"https:\/\/github.com\/Lithicsoft\/TS-Installer",
         "stargazers_count":5,
-        "language":"Python",
-        "created_at":"2024-07-09T14:02:13Z"
-    },
-    {
-        "name":"nanoai",
-        "full_name":"littensy\/nanoai",
-        "description":"\u2728 Minimal library for creating neural networks",
-        "html_url":"https:\/\/github.com\/littensy\/nanoai",
-        "stargazers_count":5,
-        "language":"Lua",
-        "created_at":"2024-05-27T04:23:57Z"
+        "language":"C#",
+        "created_at":"2024-07-05T23:48:23Z"
     },
     {
         "name":"DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI",
@@ -1026,22 +1170,13 @@
         "created_at":"2024-08-02T18:43:49Z"
     },
     {
-        "name":"feedforward-neural-network-from-scratch",
-        "full_name":"matsjfunke\/feedforward-neural-network-from-scratch",
-        "description":"Fully Connected Neural Network (FCNN) from scratch in python & Notes to aid understanding the workings of neural networks",
-        "html_url":"https:\/\/github.com\/matsjfunke\/feedforward-neural-network-from-scratch",
+        "name":"VIT2",
+        "full_name":"kochlisGit\/VIT2",
+        "description":"This repository is the implementation of the paper: ViT2 - Pre-training Vision Transformers for Visual Times Series Forecasting. ViT2 is a framework designed to address generalization & transfer learning limitations of Time-Series-based forecasting models by encoding the time-series to images using GAF and a modified ViT architecture.",
+        "html_url":"https:\/\/github.com\/kochlisGit\/VIT2",
         "stargazers_count":4,
-        "language":"Python",
-        "created_at":"2024-06-04T21:22:40Z"
-    },
-    {
-        "name":"Neural-Network",
-        "full_name":"afan0918\/Neural-Network",
-        "description":"A lightweight neural network framework in C",
-        "html_url":"https:\/\/github.com\/afan0918\/Neural-Network",
-        "stargazers_count":4,
-        "language":"C",
-        "created_at":"2024-07-05T20:27:54Z"
+        "language":"Jupyter Notebook",
+        "created_at":"2024-04-08T14:03:23Z"
     },
     {
         "name":"WiNet",
@@ -1053,210 +1188,21 @@
         "created_at":"2024-07-01T10:19:29Z"
     },
     {
-        "name":"Karpathy-Neural-Networks-Zero-to-Hero",
-        "full_name":"chizkidd\/Karpathy-Neural-Networks-Zero-to-Hero",
-        "description":"Detailed python notes & code for lectures and exercises of Andrej Karpathy's course \"Neural Networks: Zero to Hero.\" The course is focused on building neural networks from scratch.",
-        "html_url":"https:\/\/github.com\/chizkidd\/Karpathy-Neural-Networks-Zero-to-Hero",
-        "stargazers_count":3,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-09T13:30:15Z"
-    },
-    {
-        "name":"cryptocurrency-val-prediction",
-        "full_name":"oskccy\/cryptocurrency-val-prediction",
-        "description":"LSTM Deep Neural Network to Predict Historical Crypto Prices",
-        "html_url":"https:\/\/github.com\/oskccy\/cryptocurrency-val-prediction",
-        "stargazers_count":3,
-        "language":"Python",
-        "created_at":"2024-06-07T17:29:45Z"
-    },
-    {
-        "name":"Neural-Network-Graph-Learning",
-        "full_name":"SelimWaly\/Neural-Network-Graph-Learning",
-        "description":"SDNE and LINE Deep Learning Graph Embeddings Implementation",
-        "html_url":"https:\/\/github.com\/SelimWaly\/Neural-Network-Graph-Learning",
-        "stargazers_count":3,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-23T16:59:16Z"
-    },
-    {
-        "name":"Digits-recognition",
-        "full_name":"Nizarassad\/Digits-recognition",
-        "description":"This project is a machine learning classification task on MNIST using SVM and CNN algorithms",
-        "html_url":"https:\/\/github.com\/Nizarassad\/Digits-recognition",
-        "stargazers_count":3,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-07-30T18:35:19Z"
-    },
-    {
-        "name":"mada_optimizer_search",
-        "full_name":"amazon-science\/mada_optimizer_search",
-        "description":"Code the ICML 2024 paper: \"MADA: Meta-Adaptive Optimizers through hyper-gradient Descent\"",
-        "html_url":"https:\/\/github.com\/amazon-science\/mada_optimizer_search",
-        "stargazers_count":3,
-        "language":"Python",
-        "created_at":"2024-05-22T21:32:23Z"
-    },
-    {
-        "name":"otitis-media",
-        "full_name":"zcomert\/otitis-media",
-        "description":"An academic research on otitis media.",
-        "html_url":"https:\/\/github.com\/zcomert\/otitis-media",
-        "stargazers_count":3,
+        "name":"Digital-Twin-of-Wind-Turbine-Unity",
+        "full_name":"Parth673\/Digital-Twin-of-Wind-Turbine-Unity",
+        "description":"Pratibimb is a digital twin of wind turbine made using unity pro. ",
+        "html_url":"https:\/\/github.com\/Parth673\/Digital-Twin-of-Wind-Turbine-Unity",
+        "stargazers_count":4,
         "language":null,
-        "created_at":"2024-06-08T04:05:42Z"
+        "created_at":"2024-03-26T03:56:33Z"
     },
     {
-        "name":"bocb-ai.github.io",
-        "full_name":"bocb-ai\/bocb-ai.github.io",
-        "description":"Official project of BOCB (A Decade\u2019s Battle on the Bias of Vision Backbone and Optimizer)",
-        "html_url":"https:\/\/github.com\/bocb-ai\/bocb-ai.github.io",
+        "name":"Deep-CNN-Classifier-with-Any-Images",
+        "full_name":"tkarim45\/Deep-CNN-Classifier-with-Any-Images",
+        "description":" A comprehensive repository designed for image classification tasks using TensorFlow, capable of handling varying numbers of classes.",
+        "html_url":"https:\/\/github.com\/tkarim45\/Deep-CNN-Classifier-with-Any-Images",
         "stargazers_count":3,
-        "language":"HTML",
-        "created_at":"2024-07-22T14:05:57Z"
-    },
-    {
-        "name":"Detection-and-localization-of-COVID-19-and-Pneumonia-on-chest-radiographs",
-        "full_name":"AhmedBALAAZI\/Detection-and-localization-of-COVID-19-and-Pneumonia-on-chest-radiographs",
-        "description":"Detection and localization of COVID-19 on chest X-rays",
-        "html_url":"https:\/\/github.com\/AhmedBALAAZI\/Detection-and-localization-of-COVID-19-and-Pneumonia-on-chest-radiographs",
-        "stargazers_count":2,
         "language":"Jupyter Notebook",
-        "created_at":"2024-05-30T08:31:55Z"
-    },
-    {
-        "name":"whisper-vamp-plugin",
-        "full_name":"Ircam-Partiels\/whisper-vamp-plugin",
-        "description":"The Whisper Vamp plugin is an implementation of the Whisper speech recognition model developed by OpenAI as a Vamp plugin",
-        "html_url":"https:\/\/github.com\/Ircam-Partiels\/whisper-vamp-plugin",
-        "stargazers_count":2,
-        "language":"CMake",
-        "created_at":"2024-08-07T08:39:51Z"
-    },
-    {
-        "name":"Satellite-Imagery-Road-Segmentation",
-        "full_name":"farhad-dalirani\/Satellite-Imagery-Road-Segmentation",
-        "description":"Semantic segmentation of road networks in high-resolution satellite images using a deep neural network architecture.",
-        "html_url":"https:\/\/github.com\/farhad-dalirani\/Satellite-Imagery-Road-Segmentation",
-        "stargazers_count":2,
-        "language":"Python",
-        "created_at":"2024-07-19T02:33:20Z"
-    },
-    {
-        "name":"deeplearning-code-raw-",
-        "full_name":"owaisahmadlone\/deeplearning-code-raw-",
-        "description":"This is my public repository with mostly experimental code I write while exploring or creating various deep(or not so deep) neural networks.",
-        "html_url":"https:\/\/github.com\/owaisahmadlone\/deeplearning-code-raw-",
-        "stargazers_count":2,
-        "language":null,
-        "created_at":"2024-05-24T12:30:12Z"
-    },
-    {
-        "name":"kistmath-ai",
-        "full_name":"Kitsunp\/kistmath-ai",
-        "description":"Kistmat-AI is an advanced machine learning model designed to solve a wide range of mathematical problems, from elementary arithmetic to university-level calculus. This project demonstrates the application of curriculum learning in AI, allowing the model to progressively tackle more complex mathematical concepts.",
-        "html_url":"https:\/\/github.com\/Kitsunp\/kistmath-ai",
-        "stargazers_count":2,
-        "language":"Python",
-        "created_at":"2024-07-05T05:59:21Z"
-    },
-    {
-        "name":"XAI-in-Self-Driving-Car",
-        "full_name":"AkashVA55\/XAI-in-Self-Driving-Car",
-        "description":"An automated vehicle simulation with explainabilty using LIME",
-        "html_url":"https:\/\/github.com\/AkashVA55\/XAI-in-Self-Driving-Car",
-        "stargazers_count":2,
-        "language":"Python",
-        "created_at":"2024-06-16T08:56:12Z"
-    },
-    {
-        "name":"Kolmogorov-Arnold-Network-theorem",
-        "full_name":"Tanwar-12\/Kolmogorov-Arnold-Network-theorem",
-        "description":"Kolmogorov-Arnold Networks (KANs) are a type of neural network inspired by the Kolmogorov-Arnold theorem.",
-        "html_url":"https:\/\/github.com\/Tanwar-12\/Kolmogorov-Arnold-Network-theorem",
-        "stargazers_count":2,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-08T07:41:03Z"
-    },
-    {
-        "name":"Awesome_Drug_Discovery_ML",
-        "full_name":"ngmsonn\/Awesome_Drug_Discovery_ML",
-        "description":"A curated list of awesome lists on Machine Learning for Drug Discovery ",
-        "html_url":"https:\/\/github.com\/ngmsonn\/Awesome_Drug_Discovery_ML",
-        "stargazers_count":2,
-        "language":null,
-        "created_at":"2024-07-02T04:43:24Z"
-    },
-    {
-        "name":"Deep-Learning-Approaches-for-Enhanced-Breast-Cancer-Detection",
-        "full_name":"harshjuly12\/Deep-Learning-Approaches-for-Enhanced-Breast-Cancer-Detection",
-        "description":"A deep learning project aimed at early detection of breast cancer by classifying tumors as benign or malignant based on features extracted from cell images. The project demonstrates data preprocessing, model training, and evaluation using various deep learning algorithms to achieve high accuracy in predictions.",
-        "html_url":"https:\/\/github.com\/harshjuly12\/Deep-Learning-Approaches-for-Enhanced-Breast-Cancer-Detection",
-        "stargazers_count":2,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-25T17:21:10Z"
-    },
-    {
-        "name":"imageClassification",
-        "full_name":"itsmarmot\/imageClassification",
-        "description":"CNN to develop a system that can automatically classify these X-rays as either indicative of COVID-19 infection or negative for the virus.",
-        "html_url":"https:\/\/github.com\/itsmarmot\/imageClassification",
-        "stargazers_count":2,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-07-07T23:27:02Z"
-    },
-    {
-        "name":"Data-Driven-Sustainable-Agriculture-Project",
-        "full_name":"SohelRana-aiub-Pro\/Data-Driven-Sustainable-Agriculture-Project",
-        "description":"Sustainable agriculture is farming in sustainable ways meeting society's present food and textile needs, without compromising the ability for current or future generations to meet their needs.",
-        "html_url":"https:\/\/github.com\/SohelRana-aiub-Pro\/Data-Driven-Sustainable-Agriculture-Project",
-        "stargazers_count":1,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-06-01T15:24:33Z"
-    },
-    {
-        "name":"Segment-Anything",
-        "full_name":"RhFz1\/Segment-Anything",
-        "description":"This repository contains raw implementation of the Segment Anything Model released by this Paper: Segment Anything, by a team at Meta (FAIR). This repo is the sequel to the ViT Repo, with further addition of module as per the paper.",
-        "html_url":"https:\/\/github.com\/RhFz1\/Segment-Anything",
-        "stargazers_count":1,
-        "language":"Python",
-        "created_at":"2024-06-07T09:05:05Z"
-    },
-    {
-        "name":"High-Frequency-Trading-by-Machine-Learning-and-Deep-Learning",
-        "full_name":"longtuge-w\/High-Frequency-Trading-by-Machine-Learning-and-Deep-Learning",
-        "description":null,
-        "html_url":"https:\/\/github.com\/longtuge-w\/High-Frequency-Trading-by-Machine-Learning-and-Deep-Learning",
-        "stargazers_count":1,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-07-31T03:43:46Z"
-    },
-    {
-        "name":"Breast-Cancer-Classification-with-Neural-Network",
-        "full_name":"RahulRawat24082001\/Breast-Cancer-Classification-with-Neural-Network",
-        "description":"This repository contains the code and documentation for the \"Breast Cancer Classification with Neural Network\" project. The primary goal of this project is to develop a robust and accurate deep learning model to classify breast cancer as either malignant or benign using medical imaging data.",
-        "html_url":"https:\/\/github.com\/RahulRawat24082001\/Breast-Cancer-Classification-with-Neural-Network",
-        "stargazers_count":1,
-        "language":"Jupyter Notebook",
-        "created_at":"2024-07-28T08:05:30Z"
-    },
-    {
-        "name":"OCR-Modle-Python",
-        "full_name":"Sachinsingh101\/OCR-Modle-Python",
-        "description":"Optical Character Recognition Using Python",
-        "html_url":"https:\/\/github.com\/Sachinsingh101\/OCR-Modle-Python",
-        "stargazers_count":1,
-        "language":"HTML",
-        "created_at":"2024-05-26T09:37:31Z"
-    },
-    {
-        "name":"face-recognition-attendance-management-system-with-PowerBI-dashboard",
-        "full_name":"amlanmohanty1\/face-recognition-attendance-management-system-with-PowerBI-dashboard",
-        "description":"Face Recognition based Attendance Management System with a Flask web application and Power BI attendance dashboard.",
-        "html_url":"https:\/\/github.com\/amlanmohanty1\/face-recognition-attendance-management-system-with-PowerBI-dashboard",
-        "stargazers_count":1,
-        "language":"CSS",
-        "created_at":"2024-06-11T08:04:53Z"
+        "created_at":"2024-03-11T11:48:02Z"
     }
 ]
